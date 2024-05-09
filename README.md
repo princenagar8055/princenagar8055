@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on small java development orojects
 - 📫 How to reach me : reach me out at my instagram profile (@princenagar8055sof)
-- ⚡ Fun fact: always better than my previous 24 hours.
+- ⚡ Fun fact: we need to lose good in order to get better .
 
 <!---
 princenagar8055/princenagar8055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
